@@ -70,7 +70,7 @@
       "billingPostal": "Zip or postal code"
     },
     {
-      "cardRequestID": "5",
+      "cardRequestID": "4",
       "requestor": "dcalvert",
       "email": "dcalvert@wvholdings.com",
       "phone": "9728055162",
@@ -93,7 +93,7 @@
       "billingPostal": "Zip or postal code"
     },
     {
-      "cardRequestID": "6",
+      "cardRequestID": "5",
       "requestor": "dcalvert",
       "email": "dcalvert@wvholdings.com",
       "phone": "9728055162",
@@ -115,6 +115,29 @@
       "billingState": "State or Province",
       "billingPostal": "Zip or postal code"
     },   
+    {
+      "cardRequestID": "6",
+      "requestor": "dcalvert",
+      "email": "dcalvert@wvholdings.com",
+      "phone": "9728055162",
+      "customerId": "888888",
+      "status": "received",
+      "sendDate": "2010-11-25 00:00:00",
+      "receivedDate": "2010-11-25 00:00:00",
+      "insertedDate": "2010-11-25 00:00:00",
+      "cardNumber": "4444111122223333",
+      "cardDisplay": "444444xxxxxx3333",
+      "cardType": "4",
+      "expirationMonth": "11",
+      "expirationYear": "11",
+      "billingName": "Name on card",
+      "billingAddress1": "Address 1",
+      "billingAddress2": "Address 2",
+      "billingCountry": "Country",
+      "billingCity": "City",
+      "billingState": "State or Province",
+      "billingPostal": "Zip or postal code"
+    },    
     {
       "cardRequestID": "7",
       "requestor": "dcalvert",
@@ -209,29 +232,6 @@
     },    
     {
       "cardRequestID": "11",
-      "requestor": "dcalvert",
-      "email": "dcalvert@wvholdings.com",
-      "phone": "9728055162",
-      "customerId": "888888",
-      "status": "received",
-      "sendDate": "2010-11-25 00:00:00",
-      "receivedDate": "2010-11-25 00:00:00",
-      "insertedDate": "2010-11-25 00:00:00",
-      "cardNumber": "4444111122223333",
-      "cardDisplay": "444444xxxxxx3333",
-      "cardType": "4",
-      "expirationMonth": "11",
-      "expirationYear": "11",
-      "billingName": "Name on card",
-      "billingAddress1": "Address 1",
-      "billingAddress2": "Address 2",
-      "billingCountry": "Country",
-      "billingCity": "City",
-      "billingState": "State or Province",
-      "billingPostal": "Zip or postal code"
-    },    
-    {
-      "cardRequestID": "12",
       "requestor": "dcalvert",
       "email": "dcalvert@wvholdings.com",
       "phone": "9728055162",
